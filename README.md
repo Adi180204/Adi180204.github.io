@@ -310,8 +310,8 @@
     <br><br><br>
     <!-- cards for venue and map -->
     <div class="container">
-        <div class="row mb-2">
-            <div class="col-md-6 col-sm-12">
+        <!-- <div class="row mb-2">
+            <div class="col-md-6 col-sm-7">
                 <div class="card bg-dark" style="width: 18rem;">
                     <div class="card-body">
                       <h5 class="card-title text-success">Venue</h5>
@@ -322,10 +322,37 @@
                     </div>
                   </div>
             </div>
-            <div class="col-md-6 col-sm-12">
-                <div class="card" style="width: 18rem;">
+            <div class="col-md-6 col-sm-7">
+                <div class="card" style="width: 18rem;" id="map-src">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1369534718197!2d88.36821881463615!3d22.499044241337266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02712485fb0c29%3A0x6ebc31fad40fb989!2sTEQIP%20Building!5e0!3m2!1sen!2sin!4v1657038796247!5m2!1sen!2sin" width="300" height="200" style="border: 2px solid rgba(0, 0, 0, 0.171); border-radius: 10px;" allowfullscreen="" loading="lazy"></iframe>
                   </div>
+            </div>
+        </div> -->
+        <div class="row mb-2">
+            <div class="col-md-6">
+                <div
+                    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative bg-dark">
+                    <div class="col p-4 d-flex flex-column position-static">
+                        <strong class="d-inline-block mb-2 text-light">Venue</strong>
+                        
+
+                        <p class="card-text mb-auto text-light">TEQIP Building, Jadavpur University, Kolkata
+    
+                            Address: 188, Raja S.C. Mallick Rd,
+                            Kolkata 700032.Ph:+9133-24146666</p>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div
+                    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative bg-dark">
+                    <div class="col p-4 d-flex flex-column position-static">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.1369534718197!2d88.36821881463615!3d22.499044241337266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02712485fb0c29%3A0x6ebc31fad40fb989!2sTEQIP%20Building!5e0!3m2!1sen!2sin!4v1657038796247!5m2!1sen!2sin" width="600" height="200" style="border: 2px solid rgba(0, 0, 0, 0.171); border-radius: 10px;" allowfullscreen="" loading="lazy"></iframe>
+
+                    </div>
+                </div>
             </div>
         </div>
         
