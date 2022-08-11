@@ -78,7 +78,7 @@
                         alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>ML Accelerator Summit 2.0</h2>
-                        <p>Presented By Jadavpur University, Student Branch</p>
+                        <p>End to end solutions of problems with ML and DL</p>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -108,6 +108,8 @@
             </button>
         </div>
     </div>
+    <br><br><br>
+    <h2 id="top-heading" class="text-light">Machine Learning Accelerator Summit 2.0, presented by IEEE JU SB</h2>
     <br><br><br>
     <!-- Bootstrap cards to display more content -->
     <!-- <div class="container">
